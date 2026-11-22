@@ -1,0 +1,14 @@
+{
+  "searchQueries": [
+    "bike"
+  ],
+  "location": "New York, NY",
+  "maxItems": 20,
+  "includeDetails": false,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
